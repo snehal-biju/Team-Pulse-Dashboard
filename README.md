@@ -3,7 +3,7 @@
 An interactive dashboard for a project team: major project timelines
 (development windows per object, testing cycles, UAT, code freezes,
 deployments, go-lives), team availability (PTO, early log-offs, WFH,
-training), birthdays, and open defects — all editable in the app and stored
+training), birthdays, and open defects - all editable in the app and stored
 in a local SQLite file. No external services required.
 
 ## Views
