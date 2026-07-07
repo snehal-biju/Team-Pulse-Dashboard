@@ -1,6 +1,6 @@
 # Team Pulse Dashboard
 
-A calendar-first delivery dashboard for a software project team — timelines,
+An interactive delivery dashboard for a software project team - timelines,
 workload, availability, and defects in one place, all editable in the app.
 
 ![React](https://img.shields.io/badge/React-18-20232A?logo=react&logoColor=61DAFB)
