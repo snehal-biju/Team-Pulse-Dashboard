@@ -10,7 +10,7 @@ workload, availability, and defects in one place, all editable in the app.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/license-MIT-3DA639)
 
-> **Live demo:** _https://team-pulse-dashboard.onrender.com_ (see [Run it on the web](#run-it-on-the-web)).
+> **Live demo:** _team-pulse-dashboard.onrender.com_ .
 > It ships with realistic sample data and seeds itself on first launch, so the
 > dashboard is fully populated the moment it opens.
 
